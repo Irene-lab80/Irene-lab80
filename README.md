@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning javascript
-[![Irene-lab80's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irene-lab80)](https://github.com/Irene-lab80/github-readme-stats)
+🔭 I’m currently learning Web Development
+
 <!--
 **Irene-lab80/Irene-lab80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
