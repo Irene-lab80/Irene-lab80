@@ -1,8 +1,10 @@
 ### Hi there 👋
 🔭 I’m currently learning Web Development
-My projects:
+**My projects:**
 
-👁️ MY CV (html, css) https://Irene-lab80.github.io/rsschool-cv/ [^1]
+
+👁️ **MY CV (html, css)** https://Irene-lab80.github.io/rsschool-cv/ [^1]
+
 
 [^1]: MY CV repository: (https://github.com/Irene-lab80/rsschool-cv)
 <!--
