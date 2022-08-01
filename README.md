@@ -2,8 +2,9 @@
 🔭 I’m currently learning Web Development
 My projects:
 
-👁️ [MY CV](https://github.com/Irene-lab80/rsschool-cv) (html, css) https://Irene-lab80.github.io/rsschool-cv/
+👁️ MY CV (html, css) https://Irene-lab80.github.io/rsschool-cv/ [^1]
 
+[^1]: MY CV repository: (https://github.com/Irene-lab80/rsschool-cv)
 <!--
 **Irene-lab80/Irene-lab80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
