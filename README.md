@@ -2,7 +2,7 @@
 🔭 I’m currently learning Web Development
 My projects:
 
-👁️ MY CV (html, css) [MY CV](https://github.com/Irene-lab80/rsschool-cv)[^1]
+👁️ MY CV (html, css) [repository](https://github.com/Irene-lab80/rsschool-cv) [deploy](https://Irene-lab80.github.io/rsschool-cv/)
 
 <!-- :eye: **MY CV** (html, css) (https://github.com/Irene-lab80/rsschool-cv) [^1] -->
 
