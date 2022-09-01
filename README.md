@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently learning Web Development
 
+![CODEWARS](https://www.codewars.com/users/Irene-lab80/badges/large)
+
 **My projects:**
 
 👁️ **MY CV (html, css)** https://github.com/Irene-lab80/rsschool-cv [^1]
