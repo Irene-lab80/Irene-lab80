@@ -23,6 +23,9 @@
 
 👁️ **Digital Board (React, Redux)** https://digital-board-topaz.vercel.app/ [^9]
 
+👁️ **MyMomentum (React, Redux)** https://momentum-psi.vercel.app// [^10]
+
+
 [^1]: MY CV repository: (https://Irene-lab80.github.io/rsschool-cv/)
 
 [^2]: Travel Portal repository: (https://github.com/Irene-lab80/travel/)
@@ -40,6 +43,9 @@
 [^8]: Shelter repository: (https://github.com/Irene-lab80/Shelter)
 
 [^9]: Digital Board repository: (https://github.com/Irene-lab80/digital-board)
+
+[^10]: MyMomentum repository: (https://github.com/Irene-lab80/momentum)
+
 
 <!--
 **Irene-lab80/Irene-lab80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
