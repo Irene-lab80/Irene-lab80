@@ -5,7 +5,7 @@
 
 **My projects:**
 
-👁️ **MY CV (html, css)** https://github.com/Irene-lab80/rsschool-cv [^1]
+👁️ **MY CV (html, css)** https://Irene-lab80.github.io/rsschool-cv/  [^1]
 
 👁️ **Travel Portal (html, scss, js)** https://irene-lab80.github.io/travel/ [^2]
 
@@ -26,7 +26,7 @@
 👁️ **MyMomentum (React, Redux)** https://momentum-psi.vercel.app// [^10]
 
 
-[^1]: MY CV repository: (https://Irene-lab80.github.io/rsschool-cv/)
+[^1]: MY CV repository: (https://github.com/Irene-lab80/rsschool-cv)
 
 [^2]: Travel Portal repository: (https://github.com/Irene-lab80/travel/)
 
