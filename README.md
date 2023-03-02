@@ -1,5 +1,10 @@
 ### Hi there 👋
-🔭 I’m currently learning Web Development
+
+🔭 I am a Frontend Developer, currently a trainee at Lad IT-company.
+
+Contact me: ivzhyurkevich@gmail.com
+
+Education: bachelor's degree in economics, Higher School of Economics
 
 ![CODEWARS](https://www.codewars.com/users/Irene-lab80/badges/large)
 
