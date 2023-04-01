@@ -30,7 +30,7 @@
 
 👁️ **Image gallery (html, css, js, unsplash api)** [link](https://irene-lab80.github.io/image-gallery/) / [code](https://github.com/Irene-lab80/image-gallery)
 
-👁️ **Photographer's portfolio (html, css, js)** [link](https://irene-lab80.github.io/photographers-portfolio/) [code](https://github.com/Irene-lab80/photographers-portfolio)
+👁️ **Photographer's portfolio (html, css, js)** [link](https://irene-lab80.github.io/photographers-portfolio/) / [code](https://github.com/Irene-lab80/photographers-portfolio)
 
 👁️ **Shelter (html, scss, js)** [link](https://irene-lab80.github.io/Shelter/pages/main/) / [code](https://github.com/Irene-lab80/Shelter)
 
