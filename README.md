@@ -2,55 +2,41 @@
 
 🔭 I am a Frontend Developer, currently a trainee at Lad IT-company.
 
-Contact me: ivzhyurkevich@gmail.com
+📧 Contact me: ivzhyurkevich@gmail.com
 
-Education: bachelor's degree in economics, Higher School of Economics
+🎓 Education: bachelor's degree in economics, Higher School of Economics
 
+ 📫 [**MY CV**](https://Irene-lab80.github.io/rsschool-cv/) 
+ 
 ![CODEWARS](https://www.codewars.com/users/Irene-lab80/badges/large)
+ 
 
-**My projects:**
+## **My projects:**
 
-👁️ **MY CV (html, css)** https://Irene-lab80.github.io/rsschool-cv/  [^1]
+**REACT:**
 
-👁️ **Travel Portal (html, scss, js)** https://irene-lab80.github.io/travel/ [^2]
+⚛️ **Sticker (React/Redux/TS)** [link](https://application-r88w.vercel.app/) / [code](https://github.com/Irene-lab80/Application)
 
-👁️ **Tic-Tac-Toe (html, css, js)** https://irene-lab80.github.io/tic-tac-toe/ [^3]
-
-👁️ **Image gallery (html, css, js, unsplash api)** https://irene-lab80.github.io/image-gallery/  [^4]
-
-👁️ **Photographer's portfolio (html, css, js)** https://irene-lab80.github.io/photographers-portfolio/ [^5]
-
-👁️ **Mem Sider (html, css)** https://irene-lab80.github.io/cssMemSlider/cssMemSlider/index.html [^6]
-
-👁️ **Virtual Keyboard (js)** https://irene-lab80.github.io/virtual-keyboard/ [^7]
-
-👁️ **Shelter (html, scss, js)** https://irene-lab80.github.io/Shelter/pages/main/ [^8]
-
-👁️ **Digital Board (React, Redux)** https://digital-board-topaz.vercel.app/ [^9]
-
-👁️ **MyMomentum (React, Redux)** https://momentum-psi.vercel.app// [^10]
+⚛️ **MyMomentum (React, Redux)** [link](https://momentum-psi.vercel.app/) / [code](https://github.com/Irene-lab80/momentum)
 
 
-[^1]: MY CV repository: (https://github.com/Irene-lab80/rsschool-cv)
+**JS:**
 
-[^2]: Travel Portal repository: (https://github.com/Irene-lab80/travel/)
+👁️ **Tic-Tac-Toe (js)** [link](https://irene-lab80.github.io/tic-tac-toe/) / [code](https://github.com/Irene-lab80/tic-tac-toe)
 
-[^3]: Tic-Tac-Toe repository: (https://github.com/Irene-lab80/tic-tac-toe)
+👁️ **Virtual Keyboard (js)** [link](https://irene-lab80.github.io/virtual-keyboard/) / [code](https://github.com/Irene-lab80/virtual-keyboard)
 
-[^4]: Image gallery repository: (https://github.com/Irene-lab80/image-gallery)
+👁️ **Travel Portal (html, scss, js)** [deploy](https://irene-lab80.github.io/travel/) [repo](https://github.com/Irene-lab80/travel/)
 
-[^5]: Photographer's portfolio repository: (https://github.com/Irene-lab80/photographers-portfolio)
+👁️ **Image gallery (html, css, js, unsplash api)** [link](https://irene-lab80.github.io/image-gallery/) / [code](https://github.com/Irene-lab80/image-gallery)
 
-[^6]: Mem Sider repository: https://github.com/Irene-lab80/cssMemSlider
+👁️ **Photographer's portfolio (html, css, js)** [link](https://irene-lab80.github.io/photographers-portfolio/) [code](https://github.com/Irene-lab80/photographers-portfolio)
 
-[^7]: Virtual Keyboard repository: https://github.com/Irene-lab80/virtual-keyboard
+👁️ **Shelter (html, scss, js)** [link](https://irene-lab80.github.io/Shelter/pages/main/) / [code](https://github.com/Irene-lab80/Shelter)
 
-[^8]: Shelter repository: (https://github.com/Irene-lab80/Shelter)
+👁️ **cssBayan Accordion (css only)** [link](https://irene-lab80.github.io/cssBayan/cssBayan/) / [code](https://github.com/Irene-lab80/cssBayan/)
 
-[^9]: Digital Board repository: (https://github.com/Irene-lab80/digital-board)
-
-[^10]: MyMomentum repository: (https://github.com/Irene-lab80/momentum)
-
+👁️ **Meme Sider (css only)** [link](https://irene-lab80.github.io/cssMemSlider/cssMemSlider/index.html) / [code](https://github.com/Irene-lab80/cssMemSlider)
 
 <!--
 **Irene-lab80/Irene-lab80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
