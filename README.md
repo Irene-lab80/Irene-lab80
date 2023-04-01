@@ -15,7 +15,7 @@
 
 **REACT:**
 
-⚛️ **Sticker (React/Redux/TS)** [link](https://application-r88w.vercel.app/) / [code](https://github.com/Irene-lab80/Application)
+⚛️ **Sticker (React/Redux/TS)** [link](https://application-r88w.vercel.app/) / [code]([https://github.com/Irene-lab80/Application](https://github.com/Irene-lab80/Application/tree/develop)
 
 ⚛️ **MyMomentum (React, Redux)** [link](https://momentum-psi.vercel.app/) / [code](https://github.com/Irene-lab80/momentum)
 
@@ -26,7 +26,7 @@
 
 👁️ **Virtual Keyboard (js)** [link](https://irene-lab80.github.io/virtual-keyboard/) / [code](https://github.com/Irene-lab80/virtual-keyboard)
 
-👁️ **Travel Portal (html, scss, js)** [deploy](https://irene-lab80.github.io/travel/) [repo](https://github.com/Irene-lab80/travel/)
+👁️ **Travel Portal (html, scss, js)** [deploy](https://irene-lab80.github.io/travel/) / [repo](https://github.com/Irene-lab80/travel/)
 
 👁️ **Image gallery (html, css, js, unsplash api)** [link](https://irene-lab80.github.io/image-gallery/) / [code](https://github.com/Irene-lab80/image-gallery)
 
