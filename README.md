@@ -15,7 +15,7 @@
 
 **REACT:**
 
-⚛️ **Sticker (React/Redux/TS)** [link](https://application-r88w.vercel.app/) / [code]([https://github.com/Irene-lab80/Application](https://github.com/Irene-lab80/Application/tree/develop)
+⚛️ **Sticker (React/Redux/TS)** [link](https://application-r88w.vercel.app/) / [code](https://github.com/Irene-lab80/Application/tree/main)
 
 ⚛️ **MyMomentum (React, Redux)** [link](https://momentum-psi.vercel.app/) / [code](https://github.com/Irene-lab80/momentum)
 
