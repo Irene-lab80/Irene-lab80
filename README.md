@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am a Frontend Developer, currently a trainee at Lad IT-company.
+🔭 I am a Frontend Developer
 
 📧 Contact me: ivzhyurkevich@gmail.com
 
