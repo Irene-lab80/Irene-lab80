@@ -5,8 +5,6 @@
 📧 Contact me: ivzhyurkevich@gmail.com
 
 🎓 Education: bachelor's degree in economics, Higher School of Economics
-
- 📫 [**MY CV**](https://Irene-lab80.github.io/rsschool-cv/) 
  
 ![CODEWARS](https://www.codewars.com/users/Irene-lab80/badges/large)
  
