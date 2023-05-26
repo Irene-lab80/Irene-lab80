@@ -3,8 +3,6 @@
 🔭 I am a Frontend Developer
 
 📧 Contact me: ivzhyurkevich@gmail.com
-
-🎓 Education: bachelor's degree in economics, Higher School of Economics
  
 ![CODEWARS](https://www.codewars.com/users/Irene-lab80/badges/large)
  
