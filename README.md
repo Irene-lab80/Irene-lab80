@@ -11,9 +11,11 @@
 
 **REACT:**
 
-⚛️ **Sticker (React/Redux/TS)** [link](https://application-r88w.vercel.app/) / [code](https://github.com/Irene-lab80/Application/tree/main)
+⚛️ **Sticker (React/Redux/TS)** [deploy](https://application-r88w.vercel.app/) / [code](https://github.com/Irene-lab80/Application/tree/main)
 
-⚛️ **MyMomentum (React, Redux)** [link](https://momentum-psi.vercel.app/) / [code](https://github.com/Irene-lab80/momentum)
+⚛️ **MyMomentum (React, Redux)** [deploy](https://momentum-psi.vercel.app/) / [code](https://github.com/Irene-lab80/momentum)
+
+⚛️ **QPick (React)** [deploy](https://neoflex-project-ecru.vercel.app/) / [code](https://github.com/Irene-lab80/neoflex-project)
 
 <!--
 **Irene-lab80/Irene-lab80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
