@@ -2,7 +2,7 @@
 
 🔭 I am a Frontend Developer
 
-📧 Contact me: ivzhyurkevich@gmail.com
+📧 Contact me: ivzhyurkevich@gmail.com or on telegram @undeadsea
 
 ##
  
@@ -15,11 +15,15 @@
 
 **REACT:**
 
+
+
+⚛️ **Goods4you (React)** [deploy](https://t1-id20r8iu2-irenelab80s-projects.vercel.app) / [code](https://github.com/Irene-lab80/t1)
+
+⚛️ **QPick (React)** [deploy](https://neoflex-project-ecru.vercel.app/) / [code](https://github.com/Irene-lab80/neoflex-project)
+
 ⚛️ **Sticker (React/Redux/TS)** [deploy](https://application-r88w.vercel.app/) / [code](https://github.com/Irene-lab80/Application/tree/main)
 
 ⚛️ **MyMomentum (React, Redux)** [deploy](https://momentum-psi.vercel.app/) / [code](https://github.com/Irene-lab80/momentum)
-
-⚛️ **QPick (React)** [deploy](https://neoflex-project-ecru.vercel.app/) / [code](https://github.com/Irene-lab80/neoflex-project)
 
 <!--
 **Irene-lab80/Irene-lab80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
